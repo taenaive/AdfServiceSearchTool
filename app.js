@@ -25,7 +25,7 @@ var processLines = function( path_in, filename_in , info2){
     	}
     });
 }
-/** main routine */
+/** main routine to search the proxyfile and extract service end points in a service directory*/
 var processMain = function(){
 	var arg_dir =".";
 	if( process.argv[3]){
