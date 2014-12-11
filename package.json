@@ -1,0 +1,23 @@
+{
+  "name": "AdfServiceSearchTool",
+  "version": "0.0.0",
+  "description": "adf service search tool",
+  "main": "app.js",
+  "dependencies": {
+    "cli-color": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taenaive/AdfServiceSearchTool.git"
+  },
+  "author": "tae yoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taenaive/AdfServiceSearchTool/issues"
+  },
+  "homepage": "https://github.com/taenaive/AdfServiceSearchTool"
+}
